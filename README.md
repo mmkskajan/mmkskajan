@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Kajandan Seevaratnam
 
-### 🚀 Technical Lead @ 99x | Cloud-Native Developer | AI-Assisted Engineering Enthusiast  
+### 🚀 Technical Lead @ [99x](https://99x.io)  | Cloud-Native Developer | AI-Assisted Engineering Enthusiast  
 📍 Colombo, Sri Lanka | 🖥️ .NET Core • Azure • Angular • VueJS • GitHub Copilot
 
 ---
 
 🔭 **Currently Working On**  
-- Leading development efforts for **SuperOffice CRM** – a cloud-native SaaS platform at [99x](https://99x.io)  
+- Leading development efforts for **Leading CRM in Europe** – a cloud-native SaaS platform. 
 - Building scalable and resilient CRM systems using Azure and .NET  
 - Automating infrastructure with Bicep and PowerShell  
 - Boosting engineering productivity through prompt-driven development with GitHub Copilot  
@@ -32,7 +32,6 @@
 
 📫 **Let's Connect**  
 - 🔗 [LinkedIn](https://linkedin.com/in/kajandan-seevaratnam)  
-- ✉️ mmkskajan@gmail.com  
 
 ---
 
